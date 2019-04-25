@@ -1,9 +1,8 @@
 
 
-// //blog content
+ //blog content
 // const title = "My First Blog Post";
 // const content = "this is my <strong>first</strong> post!";
-
 
 //Getting Values from Form Fields
 $("#flashMessage").hide();
